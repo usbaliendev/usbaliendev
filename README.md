@@ -40,7 +40,7 @@
 
   <img align="left" alt="usbangelo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usbangelo&show_icons=true&hide_border=true&&hide=issues,prs&title_color=037ffc&bg_color=000000&text_color=ffffff&icon_color=037ffc&count_private=1" />
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usbangelo&layout=compact&&show_icons=true&hide_border=true&title_color=037ffc&bg_color=000000&text_color=ffffff&icon_color=037ffc)](https://github.com/usbangelo/github-readme-stats)
+  <img align="right" alt="usbangelo's Top Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usbangelo&layout=compact&&show_icons=true&hide_border=true&title_color=037ffc&bg_color=000000&text_color=ffffff&icon_color=037ffc)](https://github.com/usbangelo/github-readme-stats" />
 </details>
 
 [twitter]: https://twitter.com/putuserlater
