@@ -1,4 +1,4 @@
-### Hi there, I'm Angelo - aka usbangelo👋
+### Hi there, I'm Angelo - aka usbangelo 👋:alien:
 
 #### I'm a student and artist
 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn with other people
 - 🥅 2020 Goals: Contribute with my personal projects and studies in my first github (serious) year
-- ⚡ Fun fact: I love to draw and play games
+- 👽 Fun fact: I love to draw and play games
 
 ### Spotify Playing 🎧
 
@@ -34,18 +34,16 @@
 <br />
 
 ---
+### :zap: Languages and Status:
+
 <details>
-  <summary>:zap: GitHub Stats</summary>
-  <div class="container" markdown=1>
-    <div class="row">
-      <div class="col">
+  <summary>:bar_chart: GitHub Stats</summary>
         <img alt="usbangelo's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=usbangelo&show_icons=true&hide_border=true&&hide=issues,prs&title_color=037ffc&bg_color=000000&text_color=ffffff&icon_color=037ffc&count_private=1"/>
-      </div>
-      <div class="col">
-        <img alt="usbangelo's Top Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usbangelo&layout=compact&&show_icons=true&hide_border=true&title_color=037ffc&bg_color=000000&text_color=ffffff&icon_color=037ffc)](https://github.com/usbangelo/github-readme-stats"/>
-      </div>
-    </div>
-   </div> 
+</details>
+
+<details>
+  <summary>:books: GitHub Top Lang Stats</summary>
+        <img alt="usbangelo's Top Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usbangelo&layout=compact&&show_icons=true&hide_border=true&title_color=037ffc&bg_color=000000&text_color=ffffff&icon_color=037ffc)](https://github.com/usbangelo/github-readme-stats"/>   
 </details>
 
 [twitter]: https://twitter.com/putuserlater
