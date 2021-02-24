@@ -49,4 +49,4 @@
 [twitter]: https://twitter.com/putuserlater
 [youtube]: https://youtube.com/putuserlater
 [instagram]: https://instagram.com/usbalien.dev
-[linkedin]: https://www.linkedin.com/in/angelo-soares-dorfey-166156175/
+[linkedin]: https://www.linkedin.com/in/usbangelo/
