@@ -2,15 +2,15 @@
 
 #### I'm a student and artist
 
-- 🔭 I'm currently working on getting my college degree
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm currently working on finishing my college degree, 7th period
+- 🌱 I’m currently learning more about front-end and ui/ux
 - 👯 I’m looking to learn with other people
-- 🥅 2020 Goals: Contribute with my personal projects and studies in my first github (serious) year
+- 🥅 2021 Goals: Contribute with my personal projects and studies in my first github (serious) year
 - 👽 Fun fact: I love to draw and play games
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="usbangeloti Spotify Playing" width="350" />](https://open.spotify.com/user/usbangeloss)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="usbangeloti Spotify Playing" width="350" />](https://open.spotify.com/user/usbangeloti)
 
 ### Connect with me:
 
