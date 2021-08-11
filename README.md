@@ -48,5 +48,4 @@
 
 [twitter]: https://twitter.com/putuserlater
 [youtube]: https://youtube.com/putuserlater
-[instagram]: https://instagram.com/usbalien.dev
 [linkedin]: https://www.linkedin.com/in/usbangelo/
