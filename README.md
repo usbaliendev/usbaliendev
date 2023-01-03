@@ -9,7 +9,7 @@
 
 - 👨‍💻 My links [https://biolinky.co/usbaliendev](https://biolinky.co/usbaliendev)
 
-- 💬 Ask me about **art, paintings, filosophy and alien 👽**
+- 💬 Ask me about **art, paintings, filosophy and aliens 👽**
 
 - 📫 How to reach me **usbangelo@sempreceub.com**
 
