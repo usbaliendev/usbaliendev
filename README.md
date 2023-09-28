@@ -1,17 +1,19 @@
-<h1 align="center">Hallo 👋, I'm Angelo S Dorfey - aka usbangelo 🖖👽</h1>
+<h1 align="center">Hallo 👋, I'm Angelo S Dorfey - aka usbaliendev 🖖👽</h1>
 <h3 align="center">I'm a student and artist, also a front-end dev and gamer 🎮👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usbangelo&label=Profile%20views&color=0e75b6&style=flat" alt="usbangelo" /> </p>
 
-- 🔭 I’m currently working on **finishing my college, currently on 8th semester**
+- 🔭 I’m currently looking for job oportunities since i`ve finished my Bachalor on Computer Science
 
-- 🌱 I’m currently learning **React front-end, c# and ui/ux**
+- 🌱 I’m currently learning **Next.js, Angular, TypeScript and UI/UX**
 
-- 👨‍💻 My links [https://biolinky.co/usbaliendev](https://biolinky.co/usbaliendev)
+- 👨‍💻 [My links](https://biolinky.co/usbaliendev)
+
+- 💻 [My site](https://usbaliendev.com)
 
 - 💬 Ask me about **art, paintings, filosophy and aliens 👽**
 
-- 📫 How to reach me **usbangelo@sempreceub.com**
+- 📫 How to reach me **usbaliendev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
