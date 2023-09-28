@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usbangelo&label=Profile%20views&color=0e75b6&style=flat" alt="usbangelo" /> </p>
 
-- 🔭 I’m currently looking for job oportunities since i`ve finished my Bachalor on Computer Science
+- 🔭 I'm currently looking for job opportunities since I've finished my Bachelor's degree in Computer Science
 
 - 🌱 I’m currently learning **Next.js, Angular, TypeScript and UI/UX**
 
