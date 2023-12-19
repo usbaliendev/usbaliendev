@@ -11,7 +11,7 @@
 
 - 💻 [My site](https://usbaliendev.com)
 
-- 💬 Ask me about **art, paintings, filosophy and aliens 👽**
+- 💬 Ask me about **art, games, filosophy and aliens 👽**
 
 - 📫 How to reach me **usbaliendev@gmail.com**
 
